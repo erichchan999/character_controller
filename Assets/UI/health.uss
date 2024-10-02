@@ -1,0 +1,10 @@
+.health {
+    height: 50px;
+    width: 50px;
+    background-image: url('/Assets/Mobile Game Outline UI Kit/UI Graphics/item_heart.png');
+    min-height: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
